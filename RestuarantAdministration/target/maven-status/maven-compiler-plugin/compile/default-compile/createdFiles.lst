@@ -1,0 +1,7 @@
+com\example\restuarant\RestuarantAdministrationApplication.class
+com\example\restuarant\repository\MenuRepository.class
+com\example\restuarant\controller\MenuController.class
+com\example\restuarant\model\Menu.class
+com\example\restuarant\controller\LocationController.class
+com\example\restuarant\model\Location.class
+com\example\restuarant\repository\LocationRepository.class
